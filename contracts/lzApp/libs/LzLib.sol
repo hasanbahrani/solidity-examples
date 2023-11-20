@@ -7,7 +7,7 @@ library LzLib {
     // LayerZero communication
     struct CallParams {
         address payable refundAddress;
-        address zroPaymentAddress;
+        address ZroPaymentAddress;
     }
 
     //---------------------------------------------------------------------------
